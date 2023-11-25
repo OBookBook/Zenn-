@@ -59,11 +59,11 @@ C++で開発されたソフトウェアです。
 
 3. **レンダリングエンジン**
 
-   - リクエストされたコンテンツ(HTML、CSS、JavaScript、SVG など)を解析、描画して表示をする役割を持っています。プラウザ事に使用している HTML のレンダリングエンジンには、Trident(IE)、Gecko(Firefox)、WebKit(Safari)、Blink(Chrome と Opera)があります。
+   - リクエストされたコンテンツ(HTML、CSS、JavaScript、SVG など)を解析、描画して表示をする役割を持っています。プラウザごとに使用している HTML のレンダリングエンジンには、Trident(IE)、Gecko(Firefox)、WebKit(Safari)、Blink(Chrome と Opera)があります。
 
 4. **ネットワーキング**
 
-   - ブラウザはリソースを取得する為に、HTTP（Hypertext Transfer Protocol）や HTTPS（HTTP Secure）を使ってサーバーにリクエストを送る役割を持っています。
+   - ブラウザがリソースを取得する為に、HTTP（Hypertext Transfer Protocol）や HTTPS（HTTP Secure）を使ってサーバーにリクエストを送る役割を持っています。
 
 5. **UI バックエンド**
 
